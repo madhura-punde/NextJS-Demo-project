@@ -8,7 +8,7 @@ This is a Next.js application built to showcase dynamic product listings, detail
 - Server-side rendering (SSR) for product pages
 - Static site generation (SSG) for improved performance
 - API routes for dynamic data fetching
-- Pagination for product listing with the DummyJSON API
+- Pagination for product listing with the DummyJSON API-https://dummyjson.com/products
 
 ## Requirements
 
